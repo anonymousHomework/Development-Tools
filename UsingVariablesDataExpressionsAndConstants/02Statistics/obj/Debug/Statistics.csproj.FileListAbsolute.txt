@@ -1,0 +1,5 @@
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\02Statistics\bin\Debug\02Statistics.exe.config
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\02Statistics\bin\Debug\02Statistics.exe
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\02Statistics\bin\Debug\02Statistics.pdb
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\02Statistics\obj\Debug\02Statistics.exe
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\02Statistics\obj\Debug\02Statistics.pdb

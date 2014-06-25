@@ -1,0 +1,9 @@
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\bin\Debug\01RotateFigure.exe.config
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\bin\Debug\01RotateFigure.exe
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\bin\Debug\01RotateFigure.pdb
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\obj\Debug\RotateFigure.csprojResolveAssemblyReference.cache
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\obj\Debug\01RotateFigure.exe
+E:\Telerik\KPK\HomeWorksKPK\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\obj\Debug\01RotateFigure.pdb
+C:\Users\Test\Desktop\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\bin\Debug\01RotateFigure.exe.config
+C:\Users\Test\Desktop\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\obj\Debug\01RotateFigure.exe
+C:\Users\Test\Desktop\04UsingVariablesDataExpressionsAndConstants\01RotateFigure\obj\Debug\01RotateFigure.pdb
